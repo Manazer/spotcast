@@ -351,4 +351,3 @@ class SpotcastController:
             resp = resp.get("content")
 
         return resp
-    
